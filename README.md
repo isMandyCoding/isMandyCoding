@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isMandyCoding
 - 👀 I’m interested in building apps, mainly in the MERN stack, but I like to explore other languages and tools!
-- 🌱 I’m currently learning C# and .NET!
+- 🌱 I’m currently refreshing my Laravel knowledge!
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/amanda-everett/)!
 
 <!---
